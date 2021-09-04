@@ -1,6 +1,6 @@
 <?php
-	//define('HTTP', 'http://');
-	define('HTTP', 'https://');
+	define('HTTP', 'http://');
+	//define('HTTP', 'https://');
 	define('TIT', ' | Metedología VAC con PHP');
 	define('DIRMOR', 'MORENOCL/');
 	define('DIRACT', 'ACTIONJF/');

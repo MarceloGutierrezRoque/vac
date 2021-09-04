@@ -140,4 +140,3 @@
 		header("Location: ".SIST.$dir1);
 		exit();
 	}
-?>

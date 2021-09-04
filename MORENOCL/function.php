@@ -4,4 +4,3 @@
 		mysqli_select_db($con1,"vac");
 		return($con1);
 	}
-?>
